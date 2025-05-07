@@ -137,7 +137,7 @@ If I were to choose my college from scratch, I would use the following process:
 - Visit these colleges on open day, and ask questions for anything you couldn’t find online 
 - Don’t be afraid to email the college if you have any other questions (such as: what is their pastoral support like, what bursaries do they have available, etc.) 
 - If you are still stuck, try to reach out to students currently studying at those colleges (such as by LinkedIn). Most people would be more than willing to share their experience! 
-
+ 
 ### A Practical Example:
 
 Imagine you are a male under the age of 21 -- so remove Hughes Hall, St Edmunds, Wolfson, Newnham, and Murray Edwards from the list of 31 colleges. 
@@ -146,7 +146,7 @@ Then pick out 2--4 important factors. Say you have a preference for central coll
 
 Using Cambridge’s [statistics website](https://www.undergraduate.study.cam.ac.uk/apply/statistics), you can find how many computer scientists attend each college each year. 
 
-![image](/../images/application_statistics.png)
+![image](/../images/application_statistics.png#center)
 
 In 2024 we can see that the colleges which took ≥6 people are: Churchill, Downing, Fitzwilliam, Gonville and Cauis, Homerton, Jesus, King’s, Lucy Cavendish, Queens’, Robinson, Johns, and Trinity. 
 
