@@ -3,6 +3,10 @@ languageCode: en-us
 title: Unofficial Cambridge CS Application Guide
 theme: ["PaperMod"]
 
+caches:
+  images:
+    dir: :cacheDir/images
+
 menu:
   main:
     - identifier: introduction
