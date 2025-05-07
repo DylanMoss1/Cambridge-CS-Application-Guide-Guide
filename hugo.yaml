@@ -1,0 +1,35 @@
+baseURL: https://camcsapplicationsguide.com
+languageCode: en-us
+title: Unofficial Cambridge CS Application Guide
+theme: ["PaperMod"]
+
+menu:
+  main:
+    - identifier: introduction
+      name: Introduction
+      url: /
+      weight: 1
+    - identifier: college
+      name: Choosing a College
+      url: /college/
+      weight: 2
+    - identifier: ps
+      name: Personal Statement
+      url: /ps/
+      weight: 3
+    - identifier: tmua
+      name: TMUA
+      url: /tmua/
+      weight: 4
+    - identifier: interview
+      name: Interview Advice
+      url: /interview/
+      weight: 5
+    - identifier: application
+      name: Application FAQs
+      url: /application/
+      weight: 6
+    - identifier: glossary
+      name: Glossary
+      url: /glossary/
+      weight: 7
