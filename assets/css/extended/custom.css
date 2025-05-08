@@ -1,0 +1,7 @@
+.logo,
+#menu {
+    display: flex;
+    margin: auto var(--gap);
+    margin-top: 15pt;
+    margin-bottom: -15pt;
+}
