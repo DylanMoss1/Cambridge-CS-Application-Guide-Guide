@@ -1,4 +1,4 @@
-baseURL: https://dylanmoss1.github.io/Cambridge-CS-Application-Guide/
+baseURL: http://localhost:1313/
 languageCode: en-us
 title: Unofficial Cambridge CS Application Guide
 theme: ["PaperMod"]
