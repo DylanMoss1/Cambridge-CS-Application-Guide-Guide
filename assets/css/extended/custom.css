@@ -5,3 +5,9 @@
     margin-top: 15pt;
     margin-bottom: -15pt;
 }
+
+.page-header,
+.post-header {
+    margin: 24px auto var(--content-gap) auto;
+    margin-top: 30pt;
+}
