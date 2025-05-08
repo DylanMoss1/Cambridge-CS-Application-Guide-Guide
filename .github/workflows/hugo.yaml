@@ -10,12 +10,6 @@ on:
       - master
       - exampleSite
   workflow_dispatch:
-    # manual run
-    inputs:
-      hugoVersion:
-        description: "Hugo Version"
-        required: false
-        default: "0.146.0"
 
 # Allow one concurrent deployment
 concurrency:
