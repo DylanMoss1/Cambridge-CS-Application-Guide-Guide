@@ -7,14 +7,14 @@ This section is aimed at choosing a Cambridge college for computer science (but 
 The biggest lie told to applicants is that your college does not affect your university experience, teaching experience, or chances of getting in. **This is not true.**
 
 - Colleges can be quite different to each other, and there are many factors which may have an impact on your university experience.
-- Colleges are also in charge of organising your supervisions (small teaching groups for each subject), which are a large part of your learning experience at Cambridge. 
+- Colleges are also in charge of organising your supervisions (small teaching groups for each topic), which are a large part of your learning experience at Cambridge. 
 - Some colleges can be more competitive to get into than others.
 
 So, given that colleges can have a large impact on your life at university, which should you choose? Unfortunately this is a very difficult question as different people have very different requirements and preferences. 
 
-The best thing I can do is give you a list of factors to consider when making your decision. Some of these factors may matter to you and some may not, but they might help you think about things you hadn't considered before. 
+I believe that the best thing I can do is provide a (semi-comprehensive) list of factors to consider when making your decision. Some of these factors may matter to you and some may not, but they might help you think about things you hadn't considered before.
 
-The most important thing to remember is that you will most likely enjoy your Cambridge experience no matter which college you apply to. Choosing a college just helps you better tailor your experience to what you are looking for. Most people love their colleges, and would not swap to another given the chance! 
+The most important thing to remember is that you will likely enjoy your Cambridge experience no matter which college you apply to. Choosing a college just helps you better tailor your experience to what you are looking for. Most people love their colleges, and would not swap to another given the chance! 
 
 # Factors to Consider 
 
@@ -24,16 +24,16 @@ The following is a list of university experience factors to consider when choosi
     - Colleges closer to the city centre are closer to the action, but may feel more surrounded / busy.
     - Colleges further from the city centre may feel bigger and more open, but can be further to travel to. 
 - **How far / close are you to the lecture theatre:**
-    - In compsci first year, roughly half of the lectures are held in the New Museums Site, with the rest being held in the CL.
-    - In all other years, most of your lectures are held in the Computer Lab.
+    - In first year, roughly half of compsci lectures are held in the [New Museums Site](https://maps.app.goo.gl/Kh97KqFSdor3szGb6), with the rest being held in the [Computer Lab](https://maps.app.goo.gl/y5PR338BShjqrq367).
+    - In second year onwards, almost all compsci lectures are held in the Computer Lab.
     - If you live close to the city centre, it is only a 10-15 minute cycle to the CL. 
 - **How far / close are you to the shops:**
-    - Look on Google maps to see where the nearest shops are (most central colleges shop at the Sainsburies on Sidney Street). 
+    - Look on Google maps to see where the nearest shops are (most central colleges shop at the [Sainsburies on Sidney Street](https://maps.app.goo.gl/pB5U2AUKHq7ixYbg8)). 
 - **How touristy is your college?**
-    - Some popular colleges (e.g. King’s, Trinity, St Johns) can get a bit busy during Easter / summer. 
+    - Some popular colleges (e.g. King’s, Trinity, St Johns) can get a bit busy during Easter / summer, as they open up the grounds to tourists.
     - Some people mind tourists walking through their college, whereas others don’t. 
-    - How cheap is your college? 
-- **Is the accommodation / food cheap?**
+- **How cheap is your college?**
+    - Is the accommodation / food cheap?
     - Does the college make you spend a minimum amount of money in the buttery per term (to keep the prices subsidised)? 
     - Do you have to pay for extras such as laundry / gym? 
 - **How rich is your college?**
@@ -70,7 +70,7 @@ The following is a list of university experience factors to consider when choosi
         - Some people prefer off-site accommodations due to their more modern rooms and tight-knit community. However, you may have to travel back to the college for events, buttery, etc. 
 - **Events**
     - Formals 
-        - How regularly are formals held (typically between 1–7 a week, but you will usually only attend ~1–3 times a term). 
+        - How regularly are formals held (colleges typically run between 1–7 formals a week, but you will usually only attend 1–3 formals a term). 
     - Other events such as: bops, garden parties, and may balls.
 - **Sports**
     - What sports facilities are available (e.g. badminton courts, squash courts, rowing teams, etc.).
@@ -94,20 +94,20 @@ The following is a list of university experience factors to consider when choosi
     - I’ve seen some “horror stories” circulating the internet for different colleges. Most are many years out of date, no longer relevant, or lack the relevant context. 
     - I would try to avoid being influenced by these stories too much, as they are a bad indicator for what college life is really like. 
 - **DoS (Director of Studies) Specialities**
-    - You can pick a college because the DoS (Director of Studies) specialises in an area you are interested in. However, this usually will not make a big difference to your academic experience (you are not likely to get many chances to discuss this interest with them). 
+    - You can pick a college because the DoS (Director of Studies) specialises in an area you are interested in. However, this will usually not make a big difference to your academic experience (you are unlikely to get many chances to discuss this interest with them). 
     - Do not pick a college hoping that having similar interests to the DoS will help you during your interview -- it will not!
 
 ### Supervisions 
 
-Colleges (or more specifically, DoSes at colleges) organise your supervisions: small 2/3 person teaching groups for each subject. It is hard to determine how good supervisions are at different colleges are, as it can vary massively by supervisor. Most supervisors at most colleges are good, so this isn’t something to worry too much about about. But if you want to find out more details, it would be best to try to contact someone from that college directly (such as via LinkedIn).
+Colleges (or more specifically, Directors of Studies at colleges) are responsible for organising your supervisions: small 2/3 person teaching groups for each topic -- you'll typically have around 15 supervisors each year. It is difficult to compare the quality of supervisions at different colleges, as it can vary massively by supervisor. That said, most supervisors across colleges are very good, so it’s not something to worry about too much. If you are looking for more specific details, I would recommend reaching out to students studying your subject from that college directly (such as via LinkedIn).
 
-Many colleges form small cliques which share supervisors, so don’t worry about small colleges having worse supervisors. 
+Many colleges form small cliques which share supervisors, so don’t worry about smaller colleges having worse supervisors. 
 
 ### Admission Statistics
 
-You may have seen the previous years [application statistics](https://www.undergraduate.study.cam.ac.uk/apply/statistics), and being a typical computer science student you might immediately wonder if you can use these figures to your advantage.
+You may have seen the previous years [application statistics](https://www.undergraduate.study.cam.ac.uk/apply/statistics), and being a typical computer science student you might wonder if you can use these figures to your advantage.
 
-My advice is to consider that many other applicants are doing the exact same thing! If you find a college with high admission rates, don’t assume that this trend will continue as everyone else might find it and apply to it. 
+My advice is to consider that many other applicants are doing the exact same thing! If you find a college with high admission rates, don’t assume that this trend will continue as everyone else might apply to it too for the same reason. 
 
 There can still be a lot of benefit in seeing which colleges tend to have higher admission rates, but just be aware that this can vary a lot year-on-year and is largely affected by the “pooling” system (explained later on this page).
 
@@ -123,24 +123,24 @@ About 8 colleges fall into this group, so it is worth checking the DoS of the co
 
 # Narrowing Down Your Choices
 
-Ok so you have a set of factors to think about… what now? 
+Ok so you have a list of factors to think about… what now? 
 
 I generally recommend narrowing your choices of colleges down to ~3/4, and then visiting these colleges on a Cambridge open day. Don’t underestimate how much of an influencing factor a college’s "vibe" is when you visit it in person. This is as good of a reason to choose a college as any!
 
 If I were to choose my college from scratch, I would use the following process: 
-- Start with [31 colleges](https://www.cam.ac.uk/colleges-and-departments/college-a-z)
+- Start with the [31 colleges](https://www.cam.ac.uk/colleges-and-departments/college-a-z)
 - Remove colleges you are not eligible for
     - Mature colleges for students aged 21 or over: Hughes Hall, St Edmunds, Wolfson
     - Female-only colleges: Newnham and Murray Edwards 
 - Pick 2--4 of the most important factors from the list above and eliminate colleges that do not meet these criteria (more objective criteria like “location” work better here)
 - Write out your preferences for all of the remaining factors, and try to use these to narrow down your choices further to just 3/4 colleges
-- Visit these colleges on open day, and ask questions for anything you couldn’t find online 
+- Visit these colleges on open day, and ask questions for anything you can't find online 
 - Don’t be afraid to email the college if you have any other questions (such as: what is their pastoral support like, what bursaries do they have available, etc.) 
-- If you are still stuck, try to reach out to students currently studying at those colleges (such as by LinkedIn). Most people would be more than willing to share their experience! 
+- If you are still stuck, try reaching out to students currently studying at those colleges (such as via LinkedIn). Most people would be more than willing to share their experience! 
  
 ### A Practical Example:
 
-Imagine you are a male under the age of 21 -- so remove Hughes Hall, St Edmunds, Wolfson, Newnham, and Murray Edwards from the list of 31 colleges. 
+Imagine you are a male under the age of 21 -- so remove Hughes Hall, St Edmunds, Wolfson, Newnham, and Murray Edwards from the list of 31 colleges (as you are neither a female, nor a mature student). 
 
 Then pick out 2--4 important factors. Say you have a preference for central colleges to be closer to the action, you also want a college which takes a lot of computer scientists each year (≥6), and you want a college with grand architecture as you think it would be a very cool place to live. 
 
@@ -148,19 +148,21 @@ Using Cambridge’s [statistics website](https://www.undergraduate.study.cam.ac.
 
 ![image](/../images/application_statistics.png#center)
 
-In 2024 we can see that the colleges which took ≥6 people are: Churchill, Downing, Fitzwilliam, Gonville and Cauis, Homerton, Jesus, King’s, Lucy Cavendish, Queens’, Robinson, Johns, and Trinity. 
+In 2024 we can see that the colleges which took ≥6 people are: Churchill, Downing, Fitzwilliam, Gonville and Cauis, Homerton, Jesus, King’s, Lucy Cavendish, Queens’, Robinson, John's, and Trinity. 
 
-Then I would look for central colleges using the [Cambridge Map](https://www.cam.ac.uk/colleges-and-departments/college-a-z), which narrows down the list to: Downing, Gonville and Caius, Jesus, King’s, Queens’, Robison, Johns, and Trinity. 
+I would then look for colleges close to the city centre using the [Cambridge Map](https://www.cam.ac.uk/colleges-and-departments/college-a-z), which narrows down the list to: Downing, Gonville and Caius, Jesus, King’s, Queens’, John's, and Trinity. 
 
-Out of these colleges, the I would consider the ones with grand architecture to be: King’s, Johns, and Trinity. 
+One might consider "central colleges" to be those within a reasonable distance of [Cambridge's Market Square](https://maps.app.goo.gl/iwkbYQ2kAtVPQHQE9).
 
-I would then try to visit these on an open day, and pick the college which meets the rest of my criteria the best. For example, if I enjoy badminton and King’s has an active badminton team then this might sway my decision. 
+Out of these colleges, the ones I would consider to have grand architecture would be: King’s, John's, and Trinity. 
+
+I would then try to visit these colleges on an open day, and pick the college which best meets the rest of my criteria. For example, if I enjoy badminton and King’s has an active badminton team then this might sway my decision. 
 
 Don’t worry if you don’t get a chance to go to an open day -- I chose my college (Queens’) without ever visiting it before! But if you do get a chance to visit the college in-person, then I would highly recommend it.
 
 ### Open Day Planning 
 
-You can find the next Cambridge open days on their [website](https://www.undergraduate.study.cam.ac.uk/events/cambridge-open-days) -- make sure to book your place! There are many talks that take place on these days, try to find the talks that are most relevant to you and incorporate them into your visit. 
+You can find the next Cambridge open days on their [website](https://www.undergraduate.study.cam.ac.uk/events/cambridge-open-days) -- make sure to book your place! There are many talks that take place on these days, try to find all of the talks that are most relevant to you and incorporate them into your visit. 
 
 I highly recommend planning out your route in advance. It can take a while to walk between colleges and departments which are far away, so try to visit nearby colleges at the same time. 
 
@@ -168,7 +170,7 @@ I highly recommend planning out your route in advance. It can take a while to wa
 
 Open applications mean that you don’t pick any specific college to apply to, you are instead allocated to a college at semi-random. The college you are assigned to is generally one with less applicants compared to available places, in order to spread out the applications.
 
-On one hand, this can increase your chances at getting in as you are typically assigned to less-competitive colleges. However, in practice this does not work out to be the case; the pooling system means that colleges have the freedom to take applicants that did not get into other colleges. It is not uncommon for colleges to take no applicants that applied to them (either directly or through open applications), but instead take all their applicants from the pool! 
+While applying through an open application might seem to increase your chances as you're typically assigned to less-competitive colleges, in practice this isn’t necessarily the case. The pooling system allows colleges to make offers to applicants who were not originally assigned to them. It’s not uncommon for a college to make no offers to its original applicants (whether through direct or open applications), and instead select all its offer-holders from the pool!
 
 In general, while open applications may slightly improve your chances of admission, I would still recommend applying directly to a college that appeals to you. Since you’ll be spending three years at university, it's worth choosing a college that suits you well, as this can significantly affect your overall university experience.
 

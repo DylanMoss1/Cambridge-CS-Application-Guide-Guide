@@ -37,7 +37,11 @@ menu:
       name: Application FAQs
       url: /application/
       weight: 6
+    - identifier: experience
+      name: My Experience
+      url: /experience/
+      weight: 7
     - identifier: glossary
       name: Glossary
       url: /glossary/
-      weight: 7
+      weight: 8

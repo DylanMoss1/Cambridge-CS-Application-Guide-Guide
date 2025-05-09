@@ -2,9 +2,9 @@
 
 Hello everyone! My name is Dylan, and I have recently graduated from my undergraduate and masters studying computer science at Queens’ College, Cambridge.
 
-Over the past few years, I’ve answered many questions from Cambridge computer science applicants across various forums and servers. However, I found myself repeating answers to the same questions -- ones that do not seemed to adequately addressed by existing online resources. Most available guides provide advice that is too generic and high-level to be useful.
+Over the past few years, I’ve answered many questions from Cambridge computer science applicants across various forums and servers. However, I often found myself repeating answers to the same questions -- ones that do not seemed to adequately addressed by existing online resources. Most available guides provide advice that is too generic and high-level to be useful.
 
-In this guide I aim to provide tangible, actionable advice to future applicants. I want to provide helpful resources for anyone interested in applying to Cambridge computer science (or STEM subjects at any university), regardless of their background or school environment.
+This guide aims to offer practical, actionable advice for future applicants. It’s designed to support anyone interested in applying to Computer Science at Cambridge (or STEM subjects at any university) regardless of their background or school environment.
 
 **This guide is aimed at Cambridge computer science applications. However, this advice may also be useful for those applying to Oxford, Imperial, and other STEM subjects.**
 
@@ -20,6 +20,7 @@ This guide contains the following sections:
 - [TMUA advice](/tmua/)
 - [Interview advice & Mock interview questions](/interview/)
 - [Application FAQs](/application/)
+- [My Experience](/experience/)
 
 If there are any words you do not understand in this guide, please refer to the [glossary](/glossary/).
 
