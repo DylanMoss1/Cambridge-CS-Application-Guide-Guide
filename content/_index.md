@@ -19,12 +19,12 @@ I do not represent and am not endorsed by Cambridge University in any way. The a
 ## Guide Structure 
 
 This guide contains the following sections: 
-- [Advice for choosing a college](/college/)
-- [Personal statement advice](/ps/)
-- [TMUA advice](/tmua/)
-- [Interview advice & Mock interview questions](/interview/)
-- [Application FAQs](/application/)
-- [My Experience](/experience/)
+- [Advice for choosing a college](college/)
+- [Personal statement advice](ps/)
+- [TMUA advice](tmua/)
+- [Interview advice & Mock interview questions](interview/)
+- [Application FAQs](application/)
+- [My Experience](experience/)
 
 <!-- If there are any words you do not understand in this guide, please refer to the [glossary](/glossary/). -->
 
