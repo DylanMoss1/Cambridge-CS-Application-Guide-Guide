@@ -43,7 +43,7 @@ The following is a list of university experience factors to consider when choosi
 - **College bursaries**
     - Does your college offer bursaries (such as academic bursaries, sports bursaries, travel bursaries, etc.).
     - Many colleges offer financial resources (especially if you are financially struggling).
-    - Make sure to check out both the [university bursary scheme](https://www.cambridgestudents.cam.ac.uk/cambridge-bursary) and your college’s bursary scheme (often found on the college’s website). 
+    - Make sure to check out both the [university bursary scheme](https://www.cambridgestudents.cam.ac.uk/fees-and-funding/cambridge-bursary-scheme) and your college’s bursary scheme (often found on the college’s website). 
 - **Is the food good?**
     - Is there a good cafeteria (aka buttery)? 
     - Is there also an on-site cafe? 
