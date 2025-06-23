@@ -41,7 +41,3 @@ menu:
       name: My Experience
       url: /experience/
       weight: 7
-    - identifier: glossary
-      name: Glossary
-      url: /glossary/
-      weight: 8

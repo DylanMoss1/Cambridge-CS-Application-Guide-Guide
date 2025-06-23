@@ -2,4 +2,4 @@
 title: 'Glossary'
 ---
 
-Work in progress.    
+Coming soon!
