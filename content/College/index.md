@@ -192,7 +192,7 @@ Despite these factors, it can still be useful to look at which colleges tend to 
 
 Lets look at the application statistics for computer science in 2024: 
 
-![image](/../images/application_statistics_2024.png#center)
+![Application Statistics Image](/images/application_statistics_2024.png#center)
 
 There are some interesting trends in this figure worth exploring. Firstly, Churchill college has the largest number of applications by a significant margin. This is due to several factors: it is the closest college to the Computer Lab which accepts a large number of students, and it used to have a reputation as being the "computer science" college, having historically admitted over 20 computer science students per year. 
 
@@ -238,7 +238,7 @@ Then pick out 3-5 important factors. Say you have a preference for central colle
 
 Using Cambridge’s [statistics website](https://www.undergraduate.study.cam.ac.uk/apply/statistics), you can find how many computer scientists attend each college each year. 
 
-![image](/../images/application_statistics_acceptances.png#center)
+![Application Acceptances Image](/images/application_statistics_acceptances.png#center)
 
 In 2024 we can see that the colleges which took ≥6 people are: Churchill, Downing, Fitzwilliam, Gonville and Cauis, Homerton, Jesus, King’s, Lucy Cavendish, Queens’, Robinson, John's, and Trinity. 
 
