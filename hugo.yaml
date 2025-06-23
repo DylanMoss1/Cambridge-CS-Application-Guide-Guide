@@ -20,25 +20,25 @@ menu:
       weight: 1
     - identifier: college
       name: Choosing a College
-      url: /college/
+      url: college/
       weight: 2
     - identifier: ps
       name: Personal Statement
-      url: /ps/
+      url: ps/
       weight: 3
     - identifier: tmua
       name: TMUA
-      url: /tmua/
+      url: tmua/
       weight: 4
     - identifier: interview
       name: Interview Advice
-      url: /interview/
+      url: interview/
       weight: 5
     - identifier: application
       name: Application FAQs
-      url: /application/
+      url: application/
       weight: 6
     - identifier: experience
       name: My Experience
-      url: /experience/
+      url: experience/
       weight: 7
