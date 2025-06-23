@@ -10,8 +10,6 @@ While this guide is primarily designed to support Cambridge computer science app
 
 I strongly believe that everyone should be given a fair and equal chance when applying to top universities, regardless of their background or school environment. If you found this guide useful, please share it with others who might also benefit from it!
 
- <!-- regardless of their background or school environment. This guide is aimed at Cambridge computer science applications. However, this advice may also be useful for those applying to Oxford, Imperial, and other STEM subjects. -->
-
 ## Disclosure
 
 I do not represent and am not endorsed by Cambridge University in any way. The advice given in this guide is purely my own, derived from my own personal experience. I cannot guarantee this information is correct, and that it has not changed since my application. However, I have spoken extensively with interviewers, director of studies, current students, and university applicants to make this advice as useful as I can. 
@@ -19,12 +17,12 @@ I do not represent and am not endorsed by Cambridge University in any way. The a
 ## Guide Structure 
 
 This guide contains the following sections: 
-- [Advice for choosing a college](college/)
-- [Personal statement advice](ps/)
-- [TMUA advice](tmua/)
+- [Advice for choosing a college](./college/)
+- [Personal statement advice](/ps/)
+- [TMUA advice](../tmua/)
 - [Interview advice & Mock interview questions](interview/)
-- [Application FAQs](application/)
-- [My Experience](experience/)
+- [Application FAQs](./application/)
+- [My Experience](./experience/)
 
 <!-- If there are any words you do not understand in this guide, please refer to the [glossary](/glossary/). -->
 

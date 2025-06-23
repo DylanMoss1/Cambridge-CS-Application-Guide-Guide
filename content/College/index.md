@@ -14,11 +14,6 @@ There are many factors that might affect your university experience such as: col
 
 Colleges are also in charge of organising your supervisions (small teaching groups for each course topic), which are a large part of your learning experience at Cambridge. Some colleges can be more competitive to get into than others.
 
-<!-- 
-- Colleges can be very different to each other, and there are many factors which can affect your life at university.
-- Colleges are in charge of organising your supervisions (small teaching groups for each topic), which are a large part of your learning experience at Cambridge. 
-- Some colleges can be more competitive to get into than others. -->
-
 So, given that colleges can have a large impact on your life at university, which should you choose? Unfortunately this is a very difficult question as different people have very different requirements and preferences. 
 
 I believe that the best thing I can do is provide a (semi-comprehensive) list of factors to consider when making your decision. Some of these factors may matter to you and some may not, but they might help you think about things you hadn't considered before.
@@ -160,24 +155,6 @@ Even if you don't meet these requirements, your original college may still accep
 If you are rejected before the interview stage then unfortunately you are not eligible for pooling: there is no way to be interviewed by a college other than the one you applied to. 
 
 Unfortunately no system is perfect, and so applying to competitive colleges may still decrease your chances of admission (for example, if you are rejected pre-interview). However, this system tries to make applications as fair as possible, aiming to minimise the impact your choice of college has on your chances of receiving an offer.
-
-<!-- This systems tries to make applications as fair as possible. If you are a strong candidate, then ideally the college you apply to shouldn't hinder you from receiving an offer. However,  -->
-
-<!-- While considering college admission rates is important, I believe that it shouldn't be the driving force of your decision.  -->
-
-<!-- Hopefully this system encourages you to not base your decision purely on which college offers you the highest odds of receiving an offer.  -->
-
-
-<!-- If you invited to interview, then you are always interviewed by the college you applied to (except if you make an open application). After your interview, colleges decide whether they would like to give you offer by considering all of the information in your application. If college X has 5 slots available, they would give offers to their 5 top applicants. However, if they think that the top 7 applicants were all worthy of receiving offers, they would put the 6th and 7th applicant in the "Winter pool". 
-
-Another college Y may interview their set of candidates and only find 2 people they want to give offers to, but they have 4 spaces available. They would then look in the pool, and could take the two applicants to college X out of the pool and give them offers. So these applicants would have applied to college X, but instead are fished out of the pool and are given offers by college Y.  
-
-This is very common: oversubscribed colleges put many applicants into the pool, and undersubscribed colleges take many applicants out of the pool. This is why there is limited benefit in applying to undersubscribed colleges -- it is not uncommon for these colleges to take most (if not all) of their applicants out of the pool! 
-
-It is quite likely for people applying to Dudebase colleges to be pooled into other Dudebase colleges, if there is no remaining space in the college you originally applied to. For example, Churchill is often oversubscribed, so many applicants tend to get pooled to other Dudebase colleges such as Homerton. 
-
-This process is known as the "Winter pool", and it is _by far_ the most common way to be pooled. There also exists a Summer pool, where applicants fail to meet their grade requirements and are therefore not accepted into the college. In this case, you are put into the Summer pool, where you can be picked out by other colleges looking for more people.  -->
-
 
 ### Admission Statistics
 
