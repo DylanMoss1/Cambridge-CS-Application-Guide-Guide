@@ -1,14 +1,18 @@
 ---
 title: 'My Personal Statement'
+build:
+  list: never
 ---
 
-**This personal statement is written for the old format (pre-2026).**
+[<< Personal Statement Guide](..)
 
-**This is not a "model PS", but simply my personal statement, which successfully gained me admission to computer science at Cambridge University (2020 entry).**
+This personal statement is written for the old format (pre-2026).
 
-**It does not use many of the techniques mentioned in my advice guide -- if I were to rewrite it now I would change many things. However, I have left it in its original form so people can see what a successful PS might look like.**
+This is not a "model PS", but simply my personal statement which successfully gained me admission to computer science at Cambridge University (2020 entry).
 
-**Please do not copy anything from this PS (either consciously or subconsciously) or you might be pulled up for plagiarism.**
+It does not use many of the techniques mentioned in my advice guide -- if I were to rewrite it now I would change many things. However, I have left it in its original form so people can see what a successful PS might look like.
+
+Please do not copy anything from this PS (either consciously or subconsciously) or you might be pulled up for plagiarism.
 
 ---
 

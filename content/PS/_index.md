@@ -2,17 +2,37 @@
 title: 'Personal Statement Guide'
 ---
 
-Coming soon!
+<!-- Many online guides offer general advice on writing personal statements. While these can be helpful for understanding what admission officers are typically looking for, I often find the guidance too generic, or overly focused on what not to include (instead of talking about what you should include). This guide aims to extend the information found in these articles by providing actionable advice with practical examples. -->
 
-<!-- **This advice is aimed at the new personal statement format, for 2026 entry onwards. Information about this new format can be found [here](https://www.ucas.com/applying/applying-university/writing-your-personal-statement/new-personal-statement-2026-entry).**
+Many online guides offer general tips for writing personal statements. While these resources can be useful for understanding what admissions officers are typically look for, the advice is often too generic or overly focused on what to avoid, instead of talking about what you should do instead. This guide aims to extend the information found in these articles by providing actionable advice with practical examples.
 
-# Disclaimer 
+<!-- go a step further by offering concrete, actionable advice supported by practical examples.  -->
 
-This advice is based purely on my own experience, having written my own successful personal statement, and having reviewed dozens of personal statements from potential applicants. This is my subjective view on what makes a personal statement informative and interesting.
+My own personal statement (which successfully gained me admission to computer science at Cambridge University, 2020 entry) can be found [here](my_ps).
 
-I will focus primarily on computer science personal statements for Cambridge / Oxford / Imperial, however much of this advice transfers to other courses and universities. 
+## Disclaimer 
 
-**My own personal statement (which successfully gained me admission to computer science at Cambridge University, 2020 entry) can be found [here](/ps/my_ps).** -->
+**This advice is aimed at the new personal statement format, for 2026 entry onwards. Information about this new format can be found [here](https://www.ucas.com/applying/applying-university/writing-your-personal-statement/new-personal-statement-2026-entry).**
+
+This guide is based purely on my own experience, having written my own successful personal statement, and having reviewed dozens of personal statements from Cambridge applicants. This is my subjective view on what makes a personal statement informative and interesting.
+
+I will focus primarily on computer science personal statements for Cambridge, Oxford, and Imperial. However, much of this advice transfers to other courses and universities. 
+
+## Overview 
+
+In my opinion, the purpose of a personal statement is to demonstrate three qualities: 
+- **Passion:** Conveying your genuine passion for the course, and showing that you are eager to explore the subject outside the confines of your school curriculum. 
+- **Dedication:** Highlighting difficult challenges and independent learning that you have pursued out of personal motivation. 
+- **Suitability:** Demonstrating that you are well-suited to studying the subject at university, both through your technical aptitude and by engaging with unfamiliar topics, thinking critically, and applying your knowledge in new contexts.
+
+I believe a successful personal statement is one which provides evidence to 
+
+This guide covers what sorts of projects and achievements you might wish to include, and how to write about them in a way which best conveys your passion, dedication, and suitability. These topics are split into the following three sections: 
+- [What sorts of projects and achievements you should include](/ps/#what-to-include)
+- [How to write about your projects and achievements](/ps/#how-to-write-your-ps)
+- [How to approach the three PS questions](/ps/#the-three-ps-questions)
+
+
 
 <!-- # Prerequisites
 
@@ -27,7 +47,7 @@ I will assume you have some previously researched PS advice (such as by reading 
 
 **This guide aims to extend the information found in these articles by providing actionable advice with practical examples.** -->
 
-<!-- # Overview 
+# Overview 
 
 Many online guides offer general advice on writing personal statements. While these can be helpful for understanding what admission officers are typically looking for, I often find the guidance too generic, or overly focused on what _not_ to include (instead of talking about what you should include). This guide aims to extend the information found in these articles by providing actionable advice with practical examples.
 
@@ -110,12 +130,7 @@ For example, if I were completing the first project from the list above, I would
 Please see the [UCAS website](https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/the-new-personal-statement-for-2026) for more details regarding the three PS questions. But to summarise, the three questions are: 
 - **Question 1:** Why do you want to study this course or subject? 
 - **Question 2:** How have your qualifications and studies helped you to prepare for this course or subject? 
-- **Question 3:** What else have you done to prepare outside of education, and why are these experiences useful?  -->
-
-
-
-
-<!-- 
+- **Question 3:** What else have you done to prepare outside of education, and why are these experiences useful? 
 
 
 
@@ -247,4 +262,4 @@ How have your qualifications and studies helped you to prepare for this course o
 Questions 3 
 What else have you done to prepare outside of education, and why are these experiences useful?
 
-Many people often ask me “what super curricular activities should I do?”. My initial answer is: “explore whatever interests you”. However, the field of computer science is huge, and it is quite hard for people to find what interests them. Even if people do find a field of interest, it is hard to turn that interest into a feasible stand-alone project, or to contribute to existing projects in that area. Hence, I have created a document containing inspiration for personal projects [here].  -->
+Many people often ask me “what super curricular activities should I do?”. My initial answer is: “explore whatever interests you”. However, the field of computer science is huge, and it is quite hard for people to find what interests them. Even if people do find a field of interest, it is hard to turn that interest into a feasible stand-alone project, or to contribute to existing projects in that area. Hence, I have created a document containing inspiration for personal projects [here].

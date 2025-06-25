@@ -3,13 +3,19 @@ title: Unofficial Cambridge CS Application Guide
 theme: ["PaperMod"]
 baseURL: https://dylanmoss1.github.io/Cambridge-CS-Application-Guide
 
+services:
+  googleAnalytics:
+    ID: G-QTK1PS7V2L
+
 caches:
   images:
     dir: :cacheDir/images
 
 params:
-   assets:
-      disableFingerprinting: true
+  assets:
+    disableFingerprinting: true
+  defaultTheme: dark
+  ShowCodeCopyButtons: true
       
 menu:
   main:
@@ -41,3 +47,4 @@ menu:
       name: My Experience
       url: experience/
       weight: 7
+    
