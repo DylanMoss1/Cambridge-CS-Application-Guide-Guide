@@ -25,7 +25,22 @@ In my opinion, the purpose of a personal statement is to demonstrate three quali
 - **Dedication:** Highlighting difficult challenges and independent learning that you have pursued out of personal motivation. 
 - **Suitability:** Demonstrating that you are well-suited to studying the subject at university, both through your technical aptitude and by engaging with unfamiliar topics, thinking critically, and applying your knowledge in new contexts.
 
-I believe a successful personal statement is one which provides evidence to 
+I believe a successful personal statement is one which provides clear evidence for these qualities, portraying this information in an interesting and engaging way. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 This guide covers what sorts of projects and achievements you might wish to include, and how to write about them in a way which best conveys your passion, dedication, and suitability. These topics are split into the following three sections: 
 - [What sorts of projects and achievements you should include](/ps/#what-to-include)
