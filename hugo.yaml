@@ -3,9 +3,7 @@ title: Unofficial Cambridge CS Application Guide
 theme: ["PaperMod"]
 baseURL: https://dylanmoss1.github.io/Cambridge-CS-Application-Guide
 
-services:
-  googleAnalytics:
-    ID: G-84VMNJ0B1E
+googleAnalytics: G-84VMNJ0B1E
 
 caches:
   images:
