@@ -2,13 +2,15 @@
 title: 'Personal Statement Guide'
 ---
 
+Coming soon!
+
 <!-- Many online guides offer general advice on writing personal statements. While these can be helpful for understanding what admission officers are typically looking for, I often find the guidance too generic, or overly focused on what not to include (instead of talking about what you should include). This guide aims to extend the information found in these articles by providing actionable advice with practical examples. -->
 
-Many online guides offer general tips for writing personal statements. While these resources can be useful for understanding what admissions officers are typically look for, the advice is often too generic or overly focused on what to avoid, instead of talking about what you should do instead. This guide aims to extend the information found in these articles by providing actionable advice with practical examples.
+<!-- Many online guides offer general tips for writing personal statements. While these resources can be useful for understanding what admissions officers are typically look for, this advice is often too generic or focused on what to avoid, rather than talking about what you should be doing instead. This guide aims to extend this information by providing actionable advice with practical examples. -->
 
 <!-- go a step further by offering concrete, actionable advice supported by practical examples.  -->
 
-My own personal statement (which successfully gained me admission to computer science at Cambridge University, 2020 entry) can be found [here](my_ps).
+<!-- My own personal statement (which successfully gained me admission to computer science at Cambridge University, 2020 entry) can be found [here](my_ps).
 
 ## Disclaimer 
 
@@ -25,88 +27,76 @@ In my opinion, the purpose of a personal statement is to demonstrate three quali
 - **Dedication:** Highlighting difficult challenges and independent learning that you have pursued out of personal motivation. 
 - **Suitability:** Demonstrating that you are well-suited to studying the subject at university, both through your technical aptitude and by engaging with unfamiliar topics, thinking critically, and applying your knowledge in new contexts.
 
-I believe a successful personal statement is one which provides clear evidence for these qualities, portraying this information in an interesting and engaging way. 
+I believe that a successful personal statement provides clear evidence for these three qualities, and portrays this information in an interesting and engaging way. 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-This guide covers what sorts of projects and achievements you might wish to include, and how to write about them in a way which best conveys your passion, dedication, and suitability. These topics are split into the following three sections: 
-- [What sorts of projects and achievements you should include](/ps/#what-to-include)
-- [How to write about your projects and achievements](/ps/#how-to-write-your-ps)
+This guide is split into the following three sections: 
+- [What items should you include](/ps/#what-to-include)
+- [How to write about these items](/ps/#how-to-write-your-ps)
 - [How to approach the three PS questions](/ps/#the-three-ps-questions)
 
+## What to Include 
 
+**In this guide, I use the word _project_ very generally to describe any challenge you have undertaken related to computer science. For example, I consider reading a textbook to research a topic area as a "project".** 
 
-<!-- # Prerequisites
-
-There are many articles online about how to write a computer science PS, such as: 
-- [UCAS (compsci PS advice)](https://www.ucas.com/undergraduate/applying-university/personal-statement-guides/personal-statement-advice-computer-science)
-- [The Student Room (compsci PS advice)](https://www.theuniguide.co.uk/advice/personal-statements/writing-a-computer-science-personal-statement-expert-advice-from-universities)
-- [The Student Room (general PS advice)](https://www.theuniguide.co.uk/advice/personal-statements/writing-your-personal-statement)
-- [Studential (compsci PS examples)](https://www.studential.com/personal-statement-examples/computer-science-personal-statement-examples)
-- [Oxford Computer Science Department (compsci PS advice)](https://www.cs.ox.ac.uk/admissions/undergraduate/how_to_apply/personal-statement.html)
-
-I will assume you have some previously researched PS advice (such as by reading some of these articles). This should teach you the basics of what should be included in a personal statement, and what admissions officers are looking for. Even though these articles are written for the old PS format, much of the advice is still applicable. 
-
-**This guide aims to extend the information found in these articles by providing actionable advice with practical examples.** -->
-
-# Overview 
-
-Many online guides offer general advice on writing personal statements. While these can be helpful for understanding what admission officers are typically looking for, I often find the guidance too generic, or overly focused on what _not_ to include (instead of talking about what you should include). This guide aims to extend the information found in these articles by providing actionable advice with practical examples.
-
-**In my opinion, the purpose of a personal statement is to demonstrate your passion, dedication, and suitability for studying computer science:** 
-- Convey your genuine passion for computer science, and show that you're eager to explore it beyond the confines of your school curriculum. 
-- Highlight your dedication: have you pursued difficult challenges or independent learning out of personal motivation? 
-- Demonstrate that you are well-suited to studying the subject at university, by engaging with unfamiliar topics, thinking critically, and applying your knowledge in new contexts.
-
-This guide covers what sorts of projects and achievements you might wish to include, and how to write about them in a way which best conveys your passion, dedication, and suitability. These topics are split into the following three sections: 
-- [What sorts of projects and achievements you should include](/ps/#what-to-include)
-- [How to write about your projects and achievements](/ps/#how-to-write-your-ps)
-- [How to approach the three PS questions](/ps/#the-three-ps-questions)
-
-# What to Include 
-
-**In this guide, I use the word _project_ very generally to describe any challenge you have undertaken related to computer science.** 
-
-These are typically challenges you have taken on your own accord, outside of the school curriculum. However, A-level coursework or EPQs might fall into this category. Projects can refer to a wide range of challenges, such as: 
+Projects are typically challenges you have taken on your own accord, outside of the school curriculum. However, A-level coursework or EPQs might fall into this category. Projects can refer to a wide range of challenges, such as: 
 - Researching new topic areas through textbooks, online lectures, or YouTube videos 
 - Programming projects / hardware projects 
 - Academic competitions such as olympiads 
 - Participating in events and communities (such as hackathons, clubs, and online forums)
 - Tackling online challenges (such as Kaggle, Advent of Code, and Project Euler)
 
-Projects are incredibly important, as they are the best and easiest way to demonstrate your passion and dedication for computer science. It is much more effective to show practical examples of how you have engaged and delved into your subject, compared to simply writing about how interested you are in computer science. 
+Projects are the best and easiest way to demonstrate your passion and dedication for computer science as they provide clear, tangible evidence for these qualities. A project (even a simple one) is worth a lot more to most admissions officers than simply talking about how much you enjoy your subject. 
 
-### How to Find Projects to Complete 
+When choosing personal projects to include, try to focus on the following criteria: depth over breadth, active over passion, and focus on the "personal".
+
+### Depth over Breadth
+
+It is better to do fewer projects where you dig into greater depth, rather than many shallow projects. "Greater depth" is intentionally vague here, it could mean diving deep into the technical complexity of a topic area, or focusing on the impact of your work. 
+
+Digging deep provides great evidence for the three qualities: "passion", "dedication", and "suitability". It takes a lot of courage to explore a completely unfamiliar area, and it can act as a great differentiator on your personal statement. 
+
+For example, if you build an app for fun, then you could dig into greater technical depth by incorporating different technologies into your app (such as separate front and back ends, databases, authentication, etc.). Alternatively, you could focus on the impact of the app by publishing it to an app store, and listening to user feedback to apply updates and bug fixes. 
+
+I would recommend including at least 1-2 projects where you dig into great depth, with a further 3-4 smaller projects to fill up the rest of your personal statement. This is just a rough guide however, as I have seen many successful personal statements which focus on just 1-2 projects, or are almost entirely composed of interesting smaller projects. 
+
+### Active over Passive
+
+It is difficult to talk about information you have passively consumed (such as through textbooks, YouTube videos, etc.) on your personal statement. You only have a limited number of characters, so trying to convince an admissions officer that you understand an area thoroughly in that space is near impossible. 
+
+However, actively engaging with a topic (such as complete programming projects, joining events and communities, etc.) offers much stronger evidence that you understand the topic. Admissions officers can often infer the challenges you've overcome, the skills you have develped, and the content you have learnt, even if you don't explicitly explain them on your personal statement.
+
+This isn't to say never passively consume anything, but rather to try to suppliment this with active projects you have completed to provide tangible evidence for what you have learnt. 
+
+For example, if you are learning how neural networks work, then you might first watch videos or read textbooks which describe the "backpropagation" algorithms behind neural network training. Unfortunately, saying "I read textbooks to understand neural network backpropagation works" doesn't describe how much detail you went into, or how well you understood this content. 
+
+However, supplimenting this statement with "... and then I implemented this algorithm from scratch in Python" demonstrates that you must have understand this topic well at a reasonable depth in order to build a working implementation of this algorithm. 
+
+### Focus on the "Personal"
+
+When choosing projects for a personal statement, many candidates often ask "what sort of projects would impress an admissions officer". However, I would highly recommend trying to find projects that genuinely interest you, rather than projects that appear more “impressive”. Projects you have a personal connection with allow you to convey your passion for the subject much more deeply, and often lead to more interesting conversations during interviews.
+
+For example, building a simple application that you and your friends use everyday to solve a tangible problem in your life demonstrates your passion better than a complex application that never gets used. 
+
+The next section provides some more concrete advice on how to choose interesting personal projects. 
+
+### Finding Personal Projects 
 
 The problem with finding projects is that the field of computer science is huge. It is often difficult for people to approach unfamiliar topics and discover what interests them. Even if you do find a topic that interests you, turning this into a stand-alone project that you can talk about on your PS is difficult. 
 
-**[This page](/ps/project_inspiration) offers an overview of various topics within computer science, along with inspiration and practical project ideas to help you get started.**
+**[This page](project_inspiration) offers an overview of various topics within computer science, along with inspiration and practical project ideas to help you get started.**
 
-I highly recommend trying to find projects that genuinely interest you, rather than projects that appear more "impressive". Projects you have a personal connection with allow you to convey your passion for the subject much more deeply, and often lead to more interesting conversations during interviews.
+The best way to find these sorts of projects is to solve a personal problem. The problem can be small and insignificant, but it does not matter as long as it is personal! Below I have listed some inspiration:
 
-The best way to find these sorts of projects is to solve a personal problem. The problem can be small and insignificant, but it does not matter as long as it is personal! 
 - Do you and your friends play online role-playing games and want to quickly generate and share character profile sheets? Try creating a small website that lets you do this! 
 - Are you fed up with switching off lights in your room when you leave the room? Set up a camera which detects movements, and hook it up to a smart plug to turn off the lights when you leave the room.
-- Are you interested by how fractals work? Try researching the mathematics behind fractals, and designing your own formulas to develop new fractals. 
+- Are you interested by how fractals work? Try researching the mathematics behind fractals, and designing your own formulae to develop new fractals. 
 - Do you and your classmates find it annoying to find questions on specific topics in past exam papers? Try automatically extracting keywords from questions in your past papers, which can be looked up using a search box. 
-- Are you interested in the underlying mechanics of machine learning? Try finding an YouTube video series which describe the mathematics of neural networks and backpropagation.  
+- Are you interested in the different approaches to machine learning? Try finding YouTube videos which describe how different machine learning approaches work, and put this knowledge into practice in machine learning competitions (such as Kaggle).
 - Are you and your friends obsessed with a new game at school? Create an app which lets you log-on and keep track of your friends scores. 
 - Are you interested in how well your favourite sports teams have performed over the last year? Find / scrape an online website with this information, and create live graph plots to keep track of their statistics. 
 - Are you interested in solving programming problems. Check out coding challenge websites such as Advent of Code, Project Euler, Leetcode, Hackerrank, and Codeforces. 
 - Do you have a garden at home that you help tend to? Can you put in PH / moisture / temperature meters into the soil to track these readings in real-time? 
+- Do you know any family or friends working on research projects (such as doing a PhD)? Try reaching out to them, asking if they need any help developing programs to aid with their research. For example, if they are running experiments, could you write a program which interprets their results and displays their data in graphs and plots?
 
 Some of the most valuable projects are those where you don’t begin with the intention of learning specific skills. Instead, you dive into a task and, as challenges arise, you’re pushed to learn and adapt in order to overcome them.
 
@@ -119,70 +109,51 @@ Some key information to note down includes:
 - What was a trade-off you had to make along the way (e.g. simplicity vs versatility)
 - What technical / non-technical skills did it teach you? 
 
-As a side-note, AI has become an incredibly powerful tool for writing code. However, relying on it to write large portions of code for you can be a risky trap, as you lose out on a valuable chance to learn new things.
+As a side-note, AI has become an incredibly powerful tool for writing code. However, relying on it to write large portions of code for you can be a risky trap, as you lose out on a valuable chance to learn new things. Using these tools is fine as long as you make sure you understand why it has generated the code it has, but I would personally recommend trying to work on projects with as little AI help as possible. The true value of these projects lies not in the final outcome, but in the learning journey you undertake along the way! 
 
-The true value of these projects lies not in the final outcome, but in the learning journey you undertake along the way. As a general rule, it's fine to use AI assistants if you wish to, as long as you can explain every line of code it has written. Imagine someone questioning you on each line of code: if you can't justify why it was written that way then you probably don't understand it well enough. 
-
-### Completing Large Projects
-
-I highly recommend including many small projects on your PS, as well as one or two larger projects where you dive deep into a specific area of computer science. For example, this could be a research project or a larger programming project. 
-
-Unlike the previous section, you should set out more concrete goals and criteria for this project, as well as a dedicated chunk of time (at least 2 weeks). However, once again, this should be a topic you are genuinly interested in and want to learn more about. 
-
-Larger project examples include: 
-- Do you have friends or family working in research (such as doing a PhD)? Try reaching out to them, asking if they need any help developing programs to aid with their research. For example, if they are running experiments, could you write a program which interprets their results and displays their data in graphs and plots? 
-- 
-
-Large projects like this are difficult, so do not worry if you struggle or are duanted by the scale of the challenge. Try completing a small, well-defined section of the problem first, and building out from there. 
-
-For example, if I were completing the first project from the list above, I would schedule a call with the person doing the research project to better understand their requirements and the field they are working in. I would then get these requirements down on paper, and check it with them to ensure you are both on the same page. I would then try to identify the core problem (such as a program which turns their results into useful data which can be plotted). This might involve some domain-specific knowledge, so don't be afraid of learning the basics of a new field to give yourself useful context to take on this task. Then try to complete a small proof-of-concept to complete this core problem and show it to them. If they are satisfied, then develop the surrounding code so that they can easily use your tools... 
-
-# How to Write your PS
+## How to Write Your PS
 
 
-# The Three PS Questions 
+
+## The Three PS Questions 
 
 Please see the [UCAS website](https://www.ucas.com/applying/applying-to-university/writing-your-personal-statement/the-new-personal-statement-for-2026) for more details regarding the three PS questions. But to summarise, the three questions are: 
 - **Question 1:** Why do you want to study this course or subject? 
 - **Question 2:** How have your qualifications and studies helped you to prepare for this course or subject? 
 - **Question 3:** What else have you done to prepare outside of education, and why are these experiences useful? 
 
+### Question 1: Why do you want to study this course or subject?
+
+### Question 2: How have your qualifications and studies helped you to prepare for this course or subject?
+
+### Question 3: What else have you done to prepare outside of education, and why are these experiences useful?
 
 
 
 
 
 
-There are many online guides which provide general advice about how to approach writing personal statements. While these are useful to understand what sorts of things examiners are looking for, I often find the advice too generic, or that they talk about what not to include rather than what to include. 
-
-
-Personal statements 
-
-This page is split into three sections. The first section covers what sorts of projects and achievements you should include in your personal statement. This is especially helpful if your PS deadline is still a long way off, as it can provide inspiration for the kinds of projects you can pursue in the meantime to better prepare when you start writing.
-
-The second section covers how to write about your projects and achievements. I share my three main tips on how to turn a bullet point list into a compelling personal statement. 
-
-The third section focuses on how to answer the three PS questions. 
 
 
 
 
 
 
-However, I find many of these articles frustrating as they provide generic advice and describe what not to do, but few describe what you should do.
 
-The point of this guide is to take some of the generic advice from these articles, and turn them into actionable steps to improve your personal statement.
 
-For example, the UCAS compsci PS advice article advises applicants to create a strong opening which demonstrates your enthusiasm for computer science, without using cliche openings (such as when you first got your first computer, or when you wrote your first program). However, it does not tell you what you should be doing instead!
 
-I will structure this guide starting with general advise, then providing more details for each of the three personal statement questions: 
-Question 1: Why do you want to study this course or subject?
-Question 2: How have your qualifications and studies helped you to prepare for this course or subject?
-Question 3: What else have you done to prepare outside of education, and why are these experiences useful?
 
-I will provide generic advice (often found in PS advice articles) in italics, followed by my own advice on ways to implement this advice into your PS with actionable steps. 
-General Advice
-Turn Your PS Into a Story 
+
+
+
+
+
+
+
+
+
+
+
 
 “Structure your PS in an interesting way”
 
@@ -277,4 +248,4 @@ How have your qualifications and studies helped you to prepare for this course o
 Questions 3 
 What else have you done to prepare outside of education, and why are these experiences useful?
 
-Many people often ask me “what super curricular activities should I do?”. My initial answer is: “explore whatever interests you”. However, the field of computer science is huge, and it is quite hard for people to find what interests them. Even if people do find a field of interest, it is hard to turn that interest into a feasible stand-alone project, or to contribute to existing projects in that area. Hence, I have created a document containing inspiration for personal projects [here].
+Many people often ask me “what super curricular activities should I do?”. My initial answer is: “explore whatever interests you”. However, the field of computer science is huge, and it is quite hard for people to find what interests them. Even if people do find a field of interest, it is hard to turn that interest into a feasible stand-alone project, or to contribute to existing projects in that area. Hence, I have created a document containing inspiration for personal projects [here]. -->
