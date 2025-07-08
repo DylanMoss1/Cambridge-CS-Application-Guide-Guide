@@ -10,4 +10,4 @@ The guide contains:
 - Application FAQs
 - My Experience
 
-Visit the website [here](https://github.com/DylanMoss1/Cambridge-CS-Application-Guide).
+Visit the website [here](https://dylanmoss1.github.io/Cambridge-CS-Application-Guide/).
